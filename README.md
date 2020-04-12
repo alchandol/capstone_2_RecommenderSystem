@@ -1,6 +1,6 @@
-# Film Data Study
+# Amazon Book Recommender System
 
-Data project for analyzing movie trends and popularity
+Data project for recommending books using various data such as reviews and product details.
 
 
 ## Getting Started
