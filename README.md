@@ -28,6 +28,7 @@ anaconda-project=0.8.2=py37_0
 imbalanced-learn=0.5.0=py_0
 matplotlib=3.0.2=py37h54f8f79_0
 mpmath=1.1.0=py37_0
+nltk==3.4
 notebook=5.7.4=py37_0
 numba=0.41.0=py37h6440ff4_0
 numexpr=2.6.8=py37h7413580_0
